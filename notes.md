@@ -1,2 +1,2 @@
-line one EDITED ON MAIN
+line one EDITED ON MAIN AND BRANCH
 line two
